@@ -1,0 +1,6 @@
+{
+  "name": "CalenTask",
+  "description": "An offline calendar and task manager with special options for exams and essays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
